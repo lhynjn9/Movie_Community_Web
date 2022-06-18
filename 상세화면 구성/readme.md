@@ -12,8 +12,6 @@
 
 <br>
 
-<br>
-
 > ### 상세 페이지
 
 - 평점, 장르, 리뷰글 등 영화의 상세 정보 확인 페이지
@@ -26,8 +24,6 @@
 
 <br>
 
-<br>
-
 > ### 프로필 페이지
 
 - 유저의 활동 내역과 개인 정보 확인 페이지
@@ -36,8 +32,6 @@
 <br>
 
 ![05_친구추천](https://user-images.githubusercontent.com/97647987/174427869-6d0f6a92-15e7-414c-b351-56ddec14e402.png)
-
-<br>
 
 <br>
 
@@ -79,5 +73,3 @@
 <br>
 
 ![10_대댓글](https://user-images.githubusercontent.com/97647987/174427930-6e8d22c5-a87f-4ab1-a0e4-978718539de7.png)
-
-<br>
